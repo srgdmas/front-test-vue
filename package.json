@@ -1,0 +1,25 @@
+{
+  "name": "front-test-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@kyvg/vue3-notification": "^2.3.4",
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "vue": "^3.2.35",
+    "vue-axios": "^3.4.1",
+    "vue-final-modal": "^3.4.4",
+    "vue-router": "^4.0.14",
+    "vue3-loading-overlay": "0.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "sass": "^1.52.1",
+    "vite": "^2.9.5"
+  }
+}
